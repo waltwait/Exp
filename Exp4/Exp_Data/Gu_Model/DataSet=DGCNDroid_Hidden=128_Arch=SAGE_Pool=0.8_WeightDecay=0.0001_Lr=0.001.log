@@ -1,0 +1,547 @@
+2024-06-06 13:33:09 - INFO - rs= 62
+2024-06-06 13:33:46 - INFO - Epoch 1 training time: 35.9220
+2024-06-06 13:33:47 - INFO - Saved best model at epoch 1
+2024-06-06 13:33:47 - INFO - Epoch 1: Train Loss=0.4271, Val Acc=0.8380, Val Loss=0.3473
+2024-06-06 13:33:59 - INFO - Epoch 2 training time: 11.8263
+2024-06-06 13:34:00 - INFO - Saved best model at epoch 2
+2024-06-06 13:34:00 - INFO - Epoch 2: Train Loss=0.3049, Val Acc=0.9111, Val Loss=0.2728
+2024-06-06 13:34:12 - INFO - Epoch 3 training time: 12.0899
+2024-06-06 13:34:13 - INFO - Saved best model at epoch 3
+2024-06-06 13:34:13 - INFO - Epoch 3: Train Loss=0.2552, Val Acc=0.9155, Val Loss=0.2383
+2024-06-06 13:34:24 - INFO - Epoch 4 training time: 11.0468
+2024-06-06 13:34:25 - INFO - Epoch 4: Train Loss=0.2306, Val Acc=0.9111, Val Loss=0.2393
+2024-06-06 13:34:36 - INFO - Epoch 5 training time: 10.5853
+2024-06-06 13:34:36 - INFO - Saved best model at epoch 5
+2024-06-06 13:34:36 - INFO - Epoch 5: Train Loss=0.2100, Val Acc=0.9384, Val Loss=0.1993
+2024-06-06 13:34:47 - INFO - Epoch 6 training time: 10.5934
+2024-06-06 13:34:48 - INFO - Epoch 6: Train Loss=0.1897, Val Acc=0.9305, Val Loss=0.2114
+2024-06-06 13:34:59 - INFO - Epoch 7 training time: 10.6346
+2024-06-06 13:34:59 - INFO - Epoch 7: Train Loss=0.1900, Val Acc=0.9199, Val Loss=0.2207
+2024-06-06 13:35:19 - INFO - Epoch 8 training time: 19.4535
+2024-06-06 13:35:20 - INFO - Saved best model at epoch 8
+2024-06-06 13:35:20 - INFO - Epoch 8: Train Loss=0.1744, Val Acc=0.9419, Val Loss=0.1897
+2024-06-06 13:35:31 - INFO - Epoch 9 training time: 11.1712
+2024-06-06 13:35:32 - INFO - Epoch 9: Train Loss=0.1708, Val Acc=0.9445, Val Loss=0.1915
+2024-06-06 13:35:54 - INFO - Epoch 10 training time: 21.7743
+2024-06-06 13:35:54 - INFO - Saved best model at epoch 10
+2024-06-06 13:35:54 - INFO - Epoch 10: Train Loss=0.1661, Val Acc=0.9393, Val Loss=0.1893
+2024-06-06 13:36:31 - INFO - Epoch 11 training time: 36.7643
+2024-06-06 13:36:33 - INFO - Epoch 11: Train Loss=0.1565, Val Acc=0.9384, Val Loss=0.1966
+2024-06-06 13:36:50 - INFO - Epoch 12 training time: 16.7766
+2024-06-06 13:36:51 - INFO - Epoch 12: Train Loss=0.1544, Val Acc=0.9357, Val Loss=0.2097
+2024-06-06 13:37:17 - INFO - Epoch 13 training time: 25.4838
+2024-06-06 13:37:17 - INFO - Saved best model at epoch 13
+2024-06-06 13:37:17 - INFO - Epoch 13: Train Loss=0.1491, Val Acc=0.9507, Val Loss=0.1791
+2024-06-06 13:37:28 - INFO - Epoch 14 training time: 10.5772
+2024-06-06 13:37:30 - INFO - Saved best model at epoch 14
+2024-06-06 13:37:30 - INFO - Epoch 14: Train Loss=0.1457, Val Acc=0.9489, Val Loss=0.1752
+2024-06-06 13:37:44 - INFO - Epoch 15 training time: 14.3689
+2024-06-06 13:37:45 - INFO - Epoch 15: Train Loss=0.1474, Val Acc=0.9481, Val Loss=0.1796
+2024-06-06 13:37:58 - INFO - Epoch 16 training time: 13.2268
+2024-06-06 13:37:59 - INFO - Epoch 16: Train Loss=0.1396, Val Acc=0.9481, Val Loss=0.1786
+2024-06-06 13:38:13 - INFO - Epoch 17 training time: 13.4361
+2024-06-06 13:38:13 - INFO - Epoch 17: Train Loss=0.1438, Val Acc=0.9507, Val Loss=0.1793
+2024-06-06 13:38:24 - INFO - Epoch 18 training time: 10.0989
+2024-06-06 13:38:24 - INFO - Epoch 18: Train Loss=0.1319, Val Acc=0.9498, Val Loss=0.1836
+2024-06-06 13:38:34 - INFO - Epoch 19 training time: 9.9035
+2024-06-06 13:38:35 - INFO - Early stopping triggered, epoch 19
+2024-06-06 13:38:36 - INFO - Test F1-Score: 0.9542
+2024-06-06 13:38:36 - INFO - Test Precision : 0.9542
+2024-06-06 13:38:36 - INFO - Test Accuracy: 0.9542
+2024-06-06 13:38:36 - INFO - Test Recall: 0.9542
+2024-06-06 13:38:36 - INFO - Train Time: 305.7332
+2024-06-06 13:44:18 - INFO - rs= 94
+2024-06-06 13:44:50 - INFO - Epoch 1 training time: 32.1155
+2024-06-06 13:44:53 - INFO - Saved best model at epoch 1
+2024-06-06 13:44:53 - INFO - Epoch 1: Train Loss=0.4226, Val Acc=0.8724, Val Loss=0.2938
+2024-06-06 13:45:31 - INFO - Epoch 2 training time: 38.2552
+2024-06-06 13:45:34 - INFO - Saved best model at epoch 2
+2024-06-06 13:45:34 - INFO - Epoch 2: Train Loss=0.3220, Val Acc=0.9085, Val Loss=0.2513
+2024-06-06 13:46:49 - INFO - Epoch 3 training time: 74.8912
+2024-06-06 13:46:51 - INFO - Saved best model at epoch 3
+2024-06-06 13:46:51 - INFO - Epoch 3: Train Loss=0.2462, Val Acc=0.9278, Val Loss=0.2064
+2024-06-06 13:47:21 - INFO - Epoch 4 training time: 29.7438
+2024-06-06 13:47:23 - INFO - Saved best model at epoch 4
+2024-06-06 13:47:23 - INFO - Epoch 4: Train Loss=0.2083, Val Acc=0.9252, Val Loss=0.2039
+2024-06-06 13:48:08 - INFO - Epoch 5 training time: 44.9346
+2024-06-06 13:48:11 - INFO - Saved best model at epoch 5
+2024-06-06 13:48:11 - INFO - Epoch 5: Train Loss=0.1986, Val Acc=0.9305, Val Loss=0.1905
+2024-06-06 13:48:56 - INFO - Epoch 6 training time: 45.1129
+2024-06-06 13:48:59 - INFO - Saved best model at epoch 6
+2024-06-06 13:48:59 - INFO - Epoch 6: Train Loss=0.1772, Val Acc=0.9401, Val Loss=0.1822
+2024-06-06 13:49:51 - INFO - Epoch 7 training time: 52.1389
+2024-06-06 13:49:53 - INFO - Saved best model at epoch 7
+2024-06-06 13:49:53 - INFO - Epoch 7: Train Loss=0.1730, Val Acc=0.9384, Val Loss=0.1809
+2024-06-06 13:50:24 - INFO - Epoch 8 training time: 30.9642
+2024-06-06 13:50:27 - INFO - Saved best model at epoch 8
+2024-06-06 13:50:27 - INFO - Epoch 8: Train Loss=0.1696, Val Acc=0.9445, Val Loss=0.1664
+2024-06-06 13:51:16 - INFO - Epoch 9 training time: 49.1489
+2024-06-06 13:51:18 - INFO - Saved best model at epoch 9
+2024-06-06 13:51:18 - INFO - Epoch 9: Train Loss=0.1548, Val Acc=0.9454, Val Loss=0.1662
+2024-06-06 13:52:08 - INFO - Epoch 10 training time: 49.7896
+2024-06-06 13:52:10 - INFO - Epoch 10: Train Loss=0.1495, Val Acc=0.9410, Val Loss=0.1754
+2024-06-06 13:52:56 - INFO - Epoch 11 training time: 45.9970
+2024-06-06 13:52:59 - INFO - Saved best model at epoch 11
+2024-06-06 13:52:59 - INFO - Epoch 11: Train Loss=0.1551, Val Acc=0.9489, Val Loss=0.1539
+2024-06-06 13:53:41 - INFO - Epoch 12 training time: 42.4894
+2024-06-06 13:53:44 - INFO - Epoch 12: Train Loss=0.1447, Val Acc=0.9428, Val Loss=0.1690
+2024-06-06 13:54:12 - INFO - Epoch 13 training time: 28.1785
+2024-06-06 13:54:15 - INFO - Epoch 13: Train Loss=0.1347, Val Acc=0.9445, Val Loss=0.1614
+2024-06-06 13:55:08 - INFO - Epoch 14 training time: 53.5053
+2024-06-06 13:55:11 - INFO - Saved best model at epoch 14
+2024-06-06 13:55:11 - INFO - Epoch 14: Train Loss=0.1463, Val Acc=0.9498, Val Loss=0.1536
+2024-06-06 13:55:46 - INFO - Epoch 15 training time: 34.8821
+2024-06-06 13:55:48 - INFO - Saved best model at epoch 15
+2024-06-06 13:55:48 - INFO - Epoch 15: Train Loss=0.1338, Val Acc=0.9533, Val Loss=0.1487
+2024-06-06 13:56:33 - INFO - Epoch 16 training time: 44.9430
+2024-06-06 13:56:36 - INFO - Saved best model at epoch 16
+2024-06-06 13:56:36 - INFO - Epoch 16: Train Loss=0.1260, Val Acc=0.9551, Val Loss=0.1460
+2024-06-06 13:57:16 - INFO - Epoch 17 training time: 40.3795
+2024-06-06 13:57:18 - INFO - Epoch 17: Train Loss=0.1276, Val Acc=0.9401, Val Loss=0.1767
+2024-06-06 13:58:17 - INFO - Epoch 18 training time: 58.3559
+2024-06-06 13:58:19 - INFO - Saved best model at epoch 18
+2024-06-06 13:58:19 - INFO - Epoch 18: Train Loss=0.1256, Val Acc=0.9533, Val Loss=0.1407
+2024-06-06 13:59:06 - INFO - Epoch 19 training time: 46.2404
+2024-06-06 13:59:08 - INFO - Epoch 19: Train Loss=0.1169, Val Acc=0.9516, Val Loss=0.1439
+2024-06-06 13:59:50 - INFO - Epoch 20 training time: 41.8221
+2024-06-06 13:59:52 - INFO - Epoch 20: Train Loss=0.1191, Val Acc=0.9560, Val Loss=0.1418
+2024-06-06 14:00:27 - INFO - Epoch 21 training time: 35.0200
+2024-06-06 14:00:30 - INFO - Epoch 21: Train Loss=0.1165, Val Acc=0.9516, Val Loss=0.1460
+2024-06-06 14:01:13 - INFO - Epoch 22 training time: 42.9320
+2024-06-06 14:01:15 - INFO - Epoch 22: Train Loss=0.1161, Val Acc=0.9525, Val Loss=0.1758
+2024-06-06 14:01:52 - INFO - Epoch 23 training time: 36.3896
+2024-06-06 14:01:54 - INFO - Early stopping triggered, epoch 23
+2024-06-06 14:01:57 - INFO - Test F1-Score: 0.9630
+2024-06-06 14:01:57 - INFO - Test Precision : 0.9630
+2024-06-06 14:01:57 - INFO - Test Accuracy: 0.9630
+2024-06-06 14:01:57 - INFO - Test Recall: 0.9630
+2024-06-06 14:01:57 - INFO - Train Time: 998.2293
+2024-06-06 14:06:54 - INFO - rs= 30
+2024-06-06 14:07:05 - INFO - Epoch 1 training time: 10.0386
+2024-06-06 14:07:06 - INFO - Saved best model at epoch 1
+2024-06-06 14:07:06 - INFO - Epoch 1: Train Loss=0.4437, Val Acc=0.8970, Val Loss=0.2666
+2024-06-06 14:07:40 - INFO - Epoch 2 training time: 34.5173
+2024-06-06 14:07:41 - INFO - Saved best model at epoch 2
+2024-06-06 14:07:41 - INFO - Epoch 2: Train Loss=0.2625, Val Acc=0.9164, Val Loss=0.2289
+2024-06-06 14:08:30 - INFO - Epoch 3 training time: 48.5942
+2024-06-06 14:08:31 - INFO - Saved best model at epoch 3
+2024-06-06 14:08:31 - INFO - Epoch 3: Train Loss=0.2166, Val Acc=0.9305, Val Loss=0.2009
+2024-06-06 14:09:19 - INFO - Epoch 4 training time: 48.2148
+2024-06-06 14:09:20 - INFO - Saved best model at epoch 4
+2024-06-06 14:09:20 - INFO - Epoch 4: Train Loss=0.2055, Val Acc=0.9384, Val Loss=0.1859
+2024-06-06 14:10:06 - INFO - Epoch 5 training time: 46.4463
+2024-06-06 14:10:07 - INFO - Saved best model at epoch 5
+2024-06-06 14:10:07 - INFO - Epoch 5: Train Loss=0.1984, Val Acc=0.9445, Val Loss=0.1776
+2024-06-06 14:10:47 - INFO - Epoch 6 training time: 40.3620
+2024-06-06 14:10:48 - INFO - Saved best model at epoch 6
+2024-06-06 14:10:48 - INFO - Epoch 6: Train Loss=0.1832, Val Acc=0.9445, Val Loss=0.1666
+2024-06-06 14:11:38 - INFO - Epoch 7 training time: 49.7058
+2024-06-06 14:11:39 - INFO - Epoch 7: Train Loss=0.1695, Val Acc=0.9410, Val Loss=0.1794
+2024-06-06 14:12:33 - INFO - Epoch 8 training time: 54.3604
+2024-06-06 14:12:34 - INFO - Epoch 8: Train Loss=0.1678, Val Acc=0.9331, Val Loss=0.1966
+2024-06-06 14:13:21 - INFO - Epoch 9 training time: 46.6722
+2024-06-06 14:13:22 - INFO - Epoch 9: Train Loss=0.1599, Val Acc=0.9305, Val Loss=0.1834
+2024-06-06 14:14:10 - INFO - Epoch 10 training time: 48.4407
+2024-06-06 14:14:11 - INFO - Epoch 10: Train Loss=0.1537, Val Acc=0.9393, Val Loss=0.1809
+2024-06-06 14:15:00 - INFO - Epoch 11 training time: 49.3624
+2024-06-06 14:15:01 - INFO - Saved best model at epoch 11
+2024-06-06 14:15:01 - INFO - Epoch 11: Train Loss=0.1547, Val Acc=0.9463, Val Loss=0.1641
+2024-06-06 14:15:57 - INFO - Epoch 12 training time: 56.4278
+2024-06-06 14:15:58 - INFO - Epoch 12: Train Loss=0.1517, Val Acc=0.9269, Val Loss=0.1978
+2024-06-06 14:16:46 - INFO - Epoch 13 training time: 47.8890
+2024-06-06 14:16:47 - INFO - Epoch 13: Train Loss=0.1464, Val Acc=0.9437, Val Loss=0.1723
+2024-06-06 14:17:40 - INFO - Epoch 14 training time: 52.9151
+2024-06-06 14:17:41 - INFO - Epoch 14: Train Loss=0.1365, Val Acc=0.9463, Val Loss=0.1643
+2024-06-06 14:18:23 - INFO - Epoch 15 training time: 41.8188
+2024-06-06 14:18:23 - INFO - Saved best model at epoch 15
+2024-06-06 14:18:23 - INFO - Epoch 15: Train Loss=0.1363, Val Acc=0.9525, Val Loss=0.1536
+2024-06-06 14:19:10 - INFO - Epoch 16 training time: 46.8921
+2024-06-06 14:19:11 - INFO - Epoch 16: Train Loss=0.1346, Val Acc=0.9419, Val Loss=0.1673
+2024-06-06 14:19:52 - INFO - Epoch 17 training time: 40.8734
+2024-06-06 14:19:53 - INFO - Epoch 17: Train Loss=0.1300, Val Acc=0.9287, Val Loss=0.1890
+2024-06-06 14:20:51 - INFO - Epoch 18 training time: 58.5116
+2024-06-06 14:20:52 - INFO - Epoch 18: Train Loss=0.1291, Val Acc=0.9516, Val Loss=0.1587
+2024-06-06 14:21:39 - INFO - Epoch 19 training time: 46.3330
+2024-06-06 14:21:39 - INFO - Epoch 19: Train Loss=0.1305, Val Acc=0.9428, Val Loss=0.1765
+2024-06-06 14:22:48 - INFO - Epoch 20 training time: 68.3302
+2024-06-06 14:22:49 - INFO - Saved best model at epoch 20
+2024-06-06 14:22:49 - INFO - Epoch 20: Train Loss=0.1253, Val Acc=0.9551, Val Loss=0.1501
+2024-06-06 14:23:41 - INFO - Epoch 21 training time: 52.3269
+2024-06-06 14:23:42 - INFO - Epoch 21: Train Loss=0.1236, Val Acc=0.9454, Val Loss=0.1616
+2024-06-06 14:24:32 - INFO - Epoch 22 training time: 50.2215
+2024-06-06 14:24:33 - INFO - Epoch 22: Train Loss=0.1234, Val Acc=0.9498, Val Loss=0.1637
+2024-06-06 14:25:29 - INFO - Epoch 23 training time: 56.2637
+2024-06-06 14:25:30 - INFO - Epoch 23: Train Loss=0.1137, Val Acc=0.9489, Val Loss=0.1701
+2024-06-06 14:26:26 - INFO - Epoch 24 training time: 55.8968
+2024-06-06 14:26:27 - INFO - Epoch 24: Train Loss=0.1113, Val Acc=0.9516, Val Loss=0.1681
+2024-06-06 14:27:22 - INFO - Epoch 25 training time: 55.3152
+2024-06-06 14:27:23 - INFO - Early stopping triggered, epoch 25
+2024-06-06 14:27:24 - INFO - Test F1-Score: 0.9586
+2024-06-06 14:27:24 - INFO - Test Precision : 0.9586
+2024-06-06 14:27:24 - INFO - Test Accuracy: 0.9586
+2024-06-06 14:27:24 - INFO - Test Recall: 0.9586
+2024-06-06 14:27:24 - INFO - Train Time: 1206.7300
+2024-06-06 14:32:04 - INFO - rs= 33
+2024-06-06 14:32:16 - INFO - Epoch 1 training time: 11.4075
+2024-06-06 14:32:17 - INFO - Saved best model at epoch 1
+2024-06-06 14:32:17 - INFO - Epoch 1: Train Loss=0.3960, Val Acc=0.8847, Val Loss=0.2635
+2024-06-06 14:32:32 - INFO - Epoch 2 training time: 14.7892
+2024-06-06 14:32:33 - INFO - Saved best model at epoch 2
+2024-06-06 14:32:33 - INFO - Epoch 2: Train Loss=0.2667, Val Acc=0.8979, Val Loss=0.2512
+2024-06-06 14:32:42 - INFO - Epoch 3 training time: 9.5422
+2024-06-06 14:32:43 - INFO - Saved best model at epoch 3
+2024-06-06 14:32:43 - INFO - Epoch 3: Train Loss=0.2291, Val Acc=0.9085, Val Loss=0.2315
+2024-06-06 14:33:00 - INFO - Epoch 4 training time: 17.1950
+2024-06-06 14:33:01 - INFO - Saved best model at epoch 4
+2024-06-06 14:33:01 - INFO - Epoch 4: Train Loss=0.2178, Val Acc=0.9225, Val Loss=0.2093
+2024-06-06 14:33:16 - INFO - Epoch 5 training time: 15.0752
+2024-06-06 14:33:17 - INFO - Saved best model at epoch 5
+2024-06-06 14:33:17 - INFO - Epoch 5: Train Loss=0.1891, Val Acc=0.9313, Val Loss=0.1844
+2024-06-06 14:33:34 - INFO - Epoch 6 training time: 17.1235
+2024-06-06 14:33:35 - INFO - Saved best model at epoch 6
+2024-06-06 14:33:35 - INFO - Epoch 6: Train Loss=0.1785, Val Acc=0.9313, Val Loss=0.1843
+2024-06-06 14:33:47 - INFO - Epoch 7 training time: 11.8858
+2024-06-06 14:33:48 - INFO - Saved best model at epoch 7
+2024-06-06 14:33:48 - INFO - Epoch 7: Train Loss=0.1643, Val Acc=0.9410, Val Loss=0.1681
+2024-06-06 14:34:01 - INFO - Epoch 8 training time: 12.8737
+2024-06-06 14:34:01 - INFO - Epoch 8: Train Loss=0.1638, Val Acc=0.9401, Val Loss=0.1743
+2024-06-06 14:34:11 - INFO - Epoch 9 training time: 9.5655
+2024-06-06 14:34:12 - INFO - Saved best model at epoch 9
+2024-06-06 14:34:12 - INFO - Epoch 9: Train Loss=0.1446, Val Acc=0.9498, Val Loss=0.1550
+2024-06-06 14:34:22 - INFO - Epoch 10 training time: 10.2632
+2024-06-06 14:34:23 - INFO - Epoch 10: Train Loss=0.1398, Val Acc=0.9489, Val Loss=0.1614
+2024-06-06 14:34:33 - INFO - Epoch 11 training time: 10.1487
+2024-06-06 14:34:34 - INFO - Saved best model at epoch 11
+2024-06-06 14:34:34 - INFO - Epoch 11: Train Loss=0.1428, Val Acc=0.9472, Val Loss=0.1527
+2024-06-06 14:34:52 - INFO - Epoch 12 training time: 18.0112
+2024-06-06 14:34:53 - INFO - Saved best model at epoch 12
+2024-06-06 14:34:53 - INFO - Epoch 12: Train Loss=0.1354, Val Acc=0.9489, Val Loss=0.1507
+2024-06-06 14:35:04 - INFO - Epoch 13 training time: 11.3313
+2024-06-06 14:35:05 - INFO - Saved best model at epoch 13
+2024-06-06 14:35:05 - INFO - Epoch 13: Train Loss=0.1314, Val Acc=0.9463, Val Loss=0.1486
+2024-06-06 14:35:19 - INFO - Epoch 14 training time: 14.0617
+2024-06-06 14:35:20 - INFO - Saved best model at epoch 14
+2024-06-06 14:35:20 - INFO - Epoch 14: Train Loss=0.1217, Val Acc=0.9551, Val Loss=0.1454
+2024-06-06 14:35:31 - INFO - Epoch 15 training time: 11.4159
+2024-06-06 14:35:32 - INFO - Epoch 15: Train Loss=0.1125, Val Acc=0.9516, Val Loss=0.1510
+2024-06-06 14:35:47 - INFO - Epoch 16 training time: 15.0778
+2024-06-06 14:35:48 - INFO - Epoch 16: Train Loss=0.1146, Val Acc=0.9481, Val Loss=0.1486
+2024-06-06 14:36:05 - INFO - Epoch 17 training time: 16.9347
+2024-06-06 14:36:06 - INFO - Saved best model at epoch 17
+2024-06-06 14:36:06 - INFO - Epoch 17: Train Loss=0.1073, Val Acc=0.9560, Val Loss=0.1332
+2024-06-06 14:36:27 - INFO - Epoch 18 training time: 21.3677
+2024-06-06 14:36:28 - INFO - Saved best model at epoch 18
+2024-06-06 14:36:28 - INFO - Epoch 18: Train Loss=0.1088, Val Acc=0.9595, Val Loss=0.1322
+2024-06-06 14:36:44 - INFO - Epoch 19 training time: 15.6718
+2024-06-06 14:36:44 - INFO - Epoch 19: Train Loss=0.1023, Val Acc=0.9525, Val Loss=0.1377
+2024-06-06 14:36:55 - INFO - Epoch 20 training time: 10.2768
+2024-06-06 14:36:56 - INFO - Epoch 20: Train Loss=0.1044, Val Acc=0.9454, Val Loss=0.1597
+2024-06-06 14:37:10 - INFO - Epoch 21 training time: 14.1180
+2024-06-06 14:37:10 - INFO - Epoch 21: Train Loss=0.0970, Val Acc=0.9489, Val Loss=0.1725
+2024-06-06 14:37:23 - INFO - Epoch 22 training time: 12.3875
+2024-06-06 14:37:24 - INFO - Epoch 22: Train Loss=0.1075, Val Acc=0.9296, Val Loss=0.2310
+2024-06-06 14:37:41 - INFO - Epoch 23 training time: 17.2129
+2024-06-06 14:37:42 - INFO - Early stopping triggered, epoch 23
+2024-06-06 14:37:43 - INFO - Test F1-Score: 0.9604
+2024-06-06 14:37:43 - INFO - Test Precision : 0.9605
+2024-06-06 14:37:43 - INFO - Test Accuracy: 0.9604
+2024-06-06 14:37:43 - INFO - Test Recall: 0.9604
+2024-06-06 14:37:43 - INFO - Train Time: 317.7367
+2024-06-06 14:42:24 - INFO - rs= 42
+2024-06-06 14:42:41 - INFO - Epoch 1 training time: 16.7400
+2024-06-06 14:42:42 - INFO - Saved best model at epoch 1
+2024-06-06 14:42:42 - INFO - Epoch 1: Train Loss=0.4214, Val Acc=0.8908, Val Loss=0.2749
+2024-06-06 14:43:08 - INFO - Epoch 2 training time: 25.4077
+2024-06-06 14:43:08 - INFO - Saved best model at epoch 2
+2024-06-06 14:43:08 - INFO - Epoch 2: Train Loss=0.2791, Val Acc=0.8873, Val Loss=0.2681
+2024-06-06 14:43:25 - INFO - Epoch 3 training time: 16.5722
+2024-06-06 14:43:26 - INFO - Epoch 3: Train Loss=0.2576, Val Acc=0.8794, Val Loss=0.2790
+2024-06-06 14:43:47 - INFO - Epoch 4 training time: 20.8340
+2024-06-06 14:43:48 - INFO - Saved best model at epoch 4
+2024-06-06 14:43:48 - INFO - Epoch 4: Train Loss=0.2429, Val Acc=0.9129, Val Loss=0.2323
+2024-06-06 14:44:16 - INFO - Epoch 5 training time: 28.4182
+2024-06-06 14:44:17 - INFO - Saved best model at epoch 5
+2024-06-06 14:44:17 - INFO - Epoch 5: Train Loss=0.2280, Val Acc=0.9137, Val Loss=0.2260
+2024-06-06 14:44:39 - INFO - Epoch 6 training time: 21.9822
+2024-06-06 14:44:40 - INFO - Saved best model at epoch 6
+2024-06-06 14:44:40 - INFO - Epoch 6: Train Loss=0.2182, Val Acc=0.9208, Val Loss=0.2239
+2024-06-06 14:45:18 - INFO - Epoch 7 training time: 38.0439
+2024-06-06 14:45:18 - INFO - Saved best model at epoch 7
+2024-06-06 14:45:18 - INFO - Epoch 7: Train Loss=0.2092, Val Acc=0.9252, Val Loss=0.2168
+2024-06-06 14:45:53 - INFO - Epoch 8 training time: 34.5600
+2024-06-06 14:45:54 - INFO - Saved best model at epoch 8
+2024-06-06 14:45:54 - INFO - Epoch 8: Train Loss=0.1996, Val Acc=0.9261, Val Loss=0.2082
+2024-06-06 14:46:17 - INFO - Epoch 9 training time: 22.8161
+2024-06-06 14:46:17 - INFO - Epoch 9: Train Loss=0.1945, Val Acc=0.9252, Val Loss=0.2210
+2024-06-06 14:46:32 - INFO - Epoch 10 training time: 14.5072
+2024-06-06 14:46:33 - INFO - Saved best model at epoch 10
+2024-06-06 14:46:33 - INFO - Epoch 10: Train Loss=0.1966, Val Acc=0.9296, Val Loss=0.1885
+2024-06-06 14:46:56 - INFO - Epoch 11 training time: 23.0092
+2024-06-06 14:46:57 - INFO - Epoch 11: Train Loss=0.1883, Val Acc=0.9375, Val Loss=0.1892
+2024-06-06 14:47:08 - INFO - Epoch 12 training time: 11.2770
+2024-06-06 14:47:09 - INFO - Epoch 12: Train Loss=0.1806, Val Acc=0.9366, Val Loss=0.1972
+2024-06-06 14:47:25 - INFO - Epoch 13 training time: 16.2070
+2024-06-06 14:47:26 - INFO - Saved best model at epoch 13
+2024-06-06 14:47:26 - INFO - Epoch 13: Train Loss=0.1707, Val Acc=0.9393, Val Loss=0.1823
+2024-06-06 14:47:45 - INFO - Epoch 14 training time: 19.1201
+2024-06-06 14:47:46 - INFO - Epoch 14: Train Loss=0.1721, Val Acc=0.9384, Val Loss=0.1942
+2024-06-06 14:48:09 - INFO - Epoch 15 training time: 23.2724
+2024-06-06 14:48:10 - INFO - Saved best model at epoch 15
+2024-06-06 14:48:10 - INFO - Epoch 15: Train Loss=0.1638, Val Acc=0.9463, Val Loss=0.1775
+2024-06-06 14:48:26 - INFO - Epoch 16 training time: 15.7873
+2024-06-06 14:48:27 - INFO - Saved best model at epoch 16
+2024-06-06 14:48:27 - INFO - Epoch 16: Train Loss=0.1634, Val Acc=0.9445, Val Loss=0.1752
+2024-06-06 14:48:57 - INFO - Epoch 17 training time: 30.4657
+2024-06-06 14:48:58 - INFO - Epoch 17: Train Loss=0.1644, Val Acc=0.9340, Val Loss=0.1809
+2024-06-06 14:49:23 - INFO - Epoch 18 training time: 25.6383
+2024-06-06 14:49:24 - INFO - Epoch 18: Train Loss=0.1630, Val Acc=0.9357, Val Loss=0.1938
+2024-06-06 14:49:52 - INFO - Epoch 19 training time: 27.8726
+2024-06-06 14:49:53 - INFO - Saved best model at epoch 19
+2024-06-06 14:49:53 - INFO - Epoch 19: Train Loss=0.1563, Val Acc=0.9507, Val Loss=0.1687
+2024-06-06 14:50:05 - INFO - Epoch 20 training time: 12.3706
+2024-06-06 14:50:06 - INFO - Epoch 20: Train Loss=0.1514, Val Acc=0.9428, Val Loss=0.1696
+2024-06-06 14:50:28 - INFO - Epoch 21 training time: 21.9768
+2024-06-06 14:50:29 - INFO - Saved best model at epoch 21
+2024-06-06 14:50:29 - INFO - Epoch 21: Train Loss=0.1465, Val Acc=0.9419, Val Loss=0.1590
+2024-06-06 14:51:00 - INFO - Epoch 22 training time: 31.0272
+2024-06-06 14:51:01 - INFO - Epoch 22: Train Loss=0.1478, Val Acc=0.9437, Val Loss=0.1853
+2024-06-06 14:51:23 - INFO - Epoch 23 training time: 21.7122
+2024-06-06 14:51:23 - INFO - Saved best model at epoch 23
+2024-06-06 14:51:23 - INFO - Epoch 23: Train Loss=0.1486, Val Acc=0.9481, Val Loss=0.1564
+2024-06-06 14:51:42 - INFO - Epoch 24 training time: 18.9133
+2024-06-06 14:51:43 - INFO - Saved best model at epoch 24
+2024-06-06 14:51:43 - INFO - Epoch 24: Train Loss=0.1395, Val Acc=0.9542, Val Loss=0.1522
+2024-06-06 14:52:18 - INFO - Epoch 25 training time: 34.9964
+2024-06-06 14:52:19 - INFO - Epoch 25: Train Loss=0.1419, Val Acc=0.9551, Val Loss=0.1541
+2024-06-06 14:52:39 - INFO - Epoch 26 training time: 19.9793
+2024-06-06 14:52:40 - INFO - Epoch 26: Train Loss=0.1431, Val Acc=0.9516, Val Loss=0.1591
+2024-06-06 14:53:14 - INFO - Epoch 27 training time: 34.1240
+2024-06-06 14:53:15 - INFO - Epoch 27: Train Loss=0.1389, Val Acc=0.9428, Val Loss=0.1553
+2024-06-06 14:53:41 - INFO - Epoch 28 training time: 26.5868
+2024-06-06 14:53:42 - INFO - Epoch 28: Train Loss=0.1380, Val Acc=0.9507, Val Loss=0.1530
+2024-06-06 14:54:10 - INFO - Epoch 29 training time: 27.6319
+2024-06-06 14:54:11 - INFO - Early stopping triggered, epoch 29
+2024-06-06 14:54:12 - INFO - Test F1-Score: 0.9621
+2024-06-06 14:54:12 - INFO - Test Precision : 0.9626
+2024-06-06 14:54:12 - INFO - Test Accuracy: 0.9621
+2024-06-06 14:54:12 - INFO - Test Recall: 0.9621
+2024-06-06 14:54:12 - INFO - Train Time: 681.8495
+2024-06-06 14:58:10 - INFO - rs= 24
+2024-06-06 15:00:03 - INFO - Epoch 1 training time: 112.3461
+2024-06-06 15:00:04 - INFO - Saved best model at epoch 1
+2024-06-06 15:00:04 - INFO - Epoch 1: Train Loss=0.4299, Val Acc=0.8556, Val Loss=0.3312
+2024-06-06 15:01:55 - INFO - Epoch 2 training time: 111.6169
+2024-06-06 15:01:56 - INFO - Saved best model at epoch 2
+2024-06-06 15:01:56 - INFO - Epoch 2: Train Loss=0.2860, Val Acc=0.8829, Val Loss=0.2902
+2024-06-06 15:04:00 - INFO - Epoch 3 training time: 124.0705
+2024-06-06 15:04:01 - INFO - Saved best model at epoch 3
+2024-06-06 15:04:01 - INFO - Epoch 3: Train Loss=0.2526, Val Acc=0.8970, Val Loss=0.2646
+2024-06-06 15:06:12 - INFO - Epoch 4 training time: 131.2286
+2024-06-06 15:06:13 - INFO - Saved best model at epoch 4
+2024-06-06 15:06:13 - INFO - Epoch 4: Train Loss=0.2170, Val Acc=0.9085, Val Loss=0.2400
+2024-06-06 15:08:25 - INFO - Epoch 5 training time: 131.9551
+2024-06-06 15:08:26 - INFO - Saved best model at epoch 5
+2024-06-06 15:08:26 - INFO - Epoch 5: Train Loss=0.2053, Val Acc=0.9173, Val Loss=0.2198
+2024-06-06 15:10:42 - INFO - Epoch 6 training time: 135.4001
+2024-06-06 15:10:42 - INFO - Saved best model at epoch 6
+2024-06-06 15:10:42 - INFO - Epoch 6: Train Loss=0.1954, Val Acc=0.9243, Val Loss=0.2186
+2024-06-06 15:12:50 - INFO - Epoch 7 training time: 127.7488
+2024-06-06 15:12:51 - INFO - Saved best model at epoch 7
+2024-06-06 15:12:51 - INFO - Epoch 7: Train Loss=0.1883, Val Acc=0.9313, Val Loss=0.1993
+2024-06-06 15:14:58 - INFO - Epoch 8 training time: 127.2917
+2024-06-06 15:14:59 - INFO - Epoch 8: Train Loss=0.1753, Val Acc=0.9287, Val Loss=0.1999
+2024-06-06 15:17:10 - INFO - Epoch 9 training time: 130.3359
+2024-06-06 15:17:10 - INFO - Saved best model at epoch 9
+2024-06-06 15:17:10 - INFO - Epoch 9: Train Loss=0.1710, Val Acc=0.9278, Val Loss=0.1897
+2024-06-06 15:19:30 - INFO - Epoch 10 training time: 139.3291
+2024-06-06 15:19:31 - INFO - Saved best model at epoch 10
+2024-06-06 15:19:31 - INFO - Epoch 10: Train Loss=0.1685, Val Acc=0.9357, Val Loss=0.1834
+2024-06-06 15:21:40 - INFO - Epoch 11 training time: 129.8247
+2024-06-06 15:21:41 - INFO - Saved best model at epoch 11
+2024-06-06 15:21:41 - INFO - Epoch 11: Train Loss=0.1620, Val Acc=0.9384, Val Loss=0.1689
+2024-06-06 15:23:57 - INFO - Epoch 12 training time: 136.2074
+2024-06-06 15:23:58 - INFO - Saved best model at epoch 12
+2024-06-06 15:23:58 - INFO - Epoch 12: Train Loss=0.1626, Val Acc=0.9393, Val Loss=0.1677
+2024-06-06 15:26:34 - INFO - Epoch 13 training time: 155.2393
+2024-06-06 15:26:34 - INFO - Saved best model at epoch 13
+2024-06-06 15:26:34 - INFO - Epoch 13: Train Loss=0.1614, Val Acc=0.9489, Val Loss=0.1639
+2024-06-06 15:28:35 - INFO - Epoch 14 training time: 120.7097
+2024-06-06 15:28:36 - INFO - Epoch 14: Train Loss=0.1519, Val Acc=0.9419, Val Loss=0.1643
+2024-06-06 15:31:24 - INFO - Epoch 15 training time: 168.5291
+2024-06-06 15:31:25 - INFO - Epoch 15: Train Loss=0.1492, Val Acc=0.9366, Val Loss=0.1710
+2024-06-06 15:33:53 - INFO - Epoch 16 training time: 147.4719
+2024-06-06 15:33:54 - INFO - Epoch 16: Train Loss=0.1441, Val Acc=0.9428, Val Loss=0.1743
+2024-06-06 15:36:40 - INFO - Epoch 17 training time: 166.3796
+2024-06-06 15:36:41 - INFO - Epoch 17: Train Loss=0.1494, Val Acc=0.9401, Val Loss=0.1751
+2024-06-06 15:41:03 - INFO - Epoch 18 training time: 262.2955
+2024-06-06 15:41:04 - INFO - Saved best model at epoch 18
+2024-06-06 15:41:04 - INFO - Epoch 18: Train Loss=0.1521, Val Acc=0.9410, Val Loss=0.1630
+2024-06-06 15:43:05 - INFO - Epoch 19 training time: 120.5219
+2024-06-06 15:43:05 - INFO - Saved best model at epoch 19
+2024-06-06 15:43:05 - INFO - Epoch 19: Train Loss=0.1369, Val Acc=0.9454, Val Loss=0.1549
+2024-06-06 15:45:18 - INFO - Epoch 20 training time: 132.3816
+2024-06-06 15:45:19 - INFO - Epoch 20: Train Loss=0.1387, Val Acc=0.9507, Val Loss=0.1585
+2024-06-06 15:47:28 - INFO - Epoch 21 training time: 128.9089
+2024-06-06 15:47:28 - INFO - Saved best model at epoch 21
+2024-06-06 15:47:28 - INFO - Epoch 21: Train Loss=0.1336, Val Acc=0.9489, Val Loss=0.1492
+2024-06-06 15:49:41 - INFO - Epoch 22 training time: 132.2321
+2024-06-06 15:49:42 - INFO - Epoch 22: Train Loss=0.1329, Val Acc=0.9569, Val Loss=0.1515
+2024-06-06 15:51:42 - INFO - Epoch 23 training time: 120.0434
+2024-06-06 15:51:42 - INFO - Epoch 23: Train Loss=0.1286, Val Acc=0.9533, Val Loss=0.1544
+2024-06-06 15:53:45 - INFO - Epoch 24 training time: 122.7671
+2024-06-06 15:53:46 - INFO - Epoch 24: Train Loss=0.1342, Val Acc=0.9498, Val Loss=0.1530
+2024-06-06 15:55:49 - INFO - Epoch 25 training time: 122.4444
+2024-06-06 15:55:49 - INFO - Epoch 25: Train Loss=0.1346, Val Acc=0.9533, Val Loss=0.1599
+2024-06-06 15:58:05 - INFO - Epoch 26 training time: 135.7057
+2024-06-06 15:58:06 - INFO - Early stopping triggered, epoch 26
+2024-06-06 15:58:10 - INFO - Test F1-Score: 0.9569
+2024-06-06 15:58:10 - INFO - Test Precision : 0.9569
+2024-06-06 15:58:10 - INFO - Test Accuracy: 0.9569
+2024-06-06 15:58:10 - INFO - Test Recall: 0.9569
+2024-06-06 15:58:10 - INFO - Train Time: 3572.9850
+2024-06-06 16:34:15 - INFO - rs= 56
+2024-06-06 16:35:05 - INFO - Epoch 1 training time: 49.3689
+2024-06-06 16:35:06 - INFO - Saved best model at epoch 1
+2024-06-06 16:35:06 - INFO - Epoch 1: Train Loss=0.4436, Val Acc=0.8873, Val Loss=0.3462
+2024-06-06 16:35:57 - INFO - Epoch 2 training time: 50.7851
+2024-06-06 16:35:59 - INFO - Saved best model at epoch 2
+2024-06-06 16:35:59 - INFO - Epoch 2: Train Loss=0.2705, Val Acc=0.9146, Val Loss=0.2501
+2024-06-06 16:36:40 - INFO - Epoch 3 training time: 40.6753
+2024-06-06 16:36:41 - INFO - Epoch 3: Train Loss=0.2284, Val Acc=0.9137, Val Loss=0.2505
+2024-06-06 16:37:32 - INFO - Epoch 4 training time: 51.2068
+2024-06-06 16:37:33 - INFO - Saved best model at epoch 4
+2024-06-06 16:37:33 - INFO - Epoch 4: Train Loss=0.1836, Val Acc=0.9173, Val Loss=0.2301
+2024-06-06 16:38:09 - INFO - Epoch 5 training time: 36.1518
+2024-06-06 16:38:10 - INFO - Saved best model at epoch 5
+2024-06-06 16:38:10 - INFO - Epoch 5: Train Loss=0.1778, Val Acc=0.9305, Val Loss=0.2124
+2024-06-06 16:38:56 - INFO - Epoch 6 training time: 46.3195
+2024-06-06 16:38:57 - INFO - Epoch 6: Train Loss=0.1604, Val Acc=0.9296, Val Loss=0.2159
+2024-06-06 16:39:57 - INFO - Epoch 7 training time: 60.5212
+2024-06-06 16:39:58 - INFO - Saved best model at epoch 7
+2024-06-06 16:39:58 - INFO - Epoch 7: Train Loss=0.1540, Val Acc=0.9375, Val Loss=0.1843
+2024-06-06 16:40:45 - INFO - Epoch 8 training time: 46.7158
+2024-06-06 16:40:46 - INFO - Epoch 8: Train Loss=0.1579, Val Acc=0.9410, Val Loss=0.1998
+2024-06-06 16:41:31 - INFO - Epoch 9 training time: 45.0689
+2024-06-06 16:41:32 - INFO - Epoch 9: Train Loss=0.1492, Val Acc=0.9357, Val Loss=0.1974
+2024-06-06 16:42:18 - INFO - Epoch 10 training time: 45.8770
+2024-06-06 16:42:18 - INFO - Saved best model at epoch 10
+2024-06-06 16:42:18 - INFO - Epoch 10: Train Loss=0.1452, Val Acc=0.9410, Val Loss=0.1810
+2024-06-06 16:43:02 - INFO - Epoch 11 training time: 43.7221
+2024-06-06 16:43:03 - INFO - Epoch 11: Train Loss=0.1405, Val Acc=0.9261, Val Loss=0.2031
+2024-06-06 16:43:34 - INFO - Epoch 12 training time: 31.2422
+2024-06-06 16:43:35 - INFO - Saved best model at epoch 12
+2024-06-06 16:43:35 - INFO - Epoch 12: Train Loss=0.1390, Val Acc=0.9375, Val Loss=0.1793
+2024-06-06 16:44:13 - INFO - Epoch 13 training time: 38.1512
+2024-06-06 16:44:14 - INFO - Saved best model at epoch 13
+2024-06-06 16:44:14 - INFO - Epoch 13: Train Loss=0.1307, Val Acc=0.9507, Val Loss=0.1717
+2024-06-06 16:44:50 - INFO - Epoch 14 training time: 35.9546
+2024-06-06 16:44:51 - INFO - Epoch 14: Train Loss=0.1254, Val Acc=0.9058, Val Loss=0.2622
+2024-06-06 16:45:16 - INFO - Epoch 15 training time: 25.4922
+2024-06-06 16:45:17 - INFO - Saved best model at epoch 15
+2024-06-06 16:45:17 - INFO - Epoch 15: Train Loss=0.1199, Val Acc=0.9463, Val Loss=0.1625
+2024-06-06 16:46:30 - INFO - Epoch 16 training time: 72.9807
+2024-06-06 16:46:31 - INFO - Epoch 16: Train Loss=0.1110, Val Acc=0.9489, Val Loss=0.1682
+2024-06-06 16:47:29 - INFO - Epoch 17 training time: 57.5469
+2024-06-06 16:47:29 - INFO - Epoch 17: Train Loss=0.1187, Val Acc=0.9331, Val Loss=0.1966
+2024-06-06 16:48:12 - INFO - Epoch 18 training time: 43.1084
+2024-06-06 16:48:13 - INFO - Epoch 18: Train Loss=0.1117, Val Acc=0.9498, Val Loss=0.1664
+2024-06-06 16:48:51 - INFO - Epoch 19 training time: 37.2606
+2024-06-06 16:48:51 - INFO - Saved best model at epoch 19
+2024-06-06 16:48:51 - INFO - Epoch 19: Train Loss=0.1028, Val Acc=0.9498, Val Loss=0.1616
+2024-06-06 16:49:33 - INFO - Epoch 20 training time: 42.0502
+2024-06-06 16:49:34 - INFO - Epoch 20: Train Loss=0.1012, Val Acc=0.9445, Val Loss=0.1775
+2024-06-06 16:50:16 - INFO - Epoch 21 training time: 41.2498
+2024-06-06 16:50:16 - INFO - Epoch 21: Train Loss=0.1057, Val Acc=0.9489, Val Loss=0.1623
+2024-06-06 16:51:16 - INFO - Epoch 22 training time: 59.8389
+2024-06-06 16:51:17 - INFO - Epoch 22: Train Loss=0.1029, Val Acc=0.9481, Val Loss=0.1629
+2024-06-06 16:52:04 - INFO - Epoch 23 training time: 47.0480
+2024-06-06 16:52:05 - INFO - Epoch 23: Train Loss=0.0934, Val Acc=0.9481, Val Loss=0.1680
+2024-06-06 16:52:57 - INFO - Epoch 24 training time: 51.9790
+2024-06-06 16:52:58 - INFO - Early stopping triggered, epoch 24
+2024-06-06 16:52:59 - INFO - Test F1-Score: 0.9577
+2024-06-06 16:52:59 - INFO - Test Precision : 0.9586
+2024-06-06 16:52:59 - INFO - Test Accuracy: 0.9577
+2024-06-06 16:52:59 - INFO - Test Recall: 0.9577
+2024-06-06 16:52:59 - INFO - Train Time: 1100.3147
+2024-06-06 16:58:10 - INFO - rs= 35
+2024-06-06 17:02:17 - INFO - Epoch 1 training time: 245.9919
+2024-06-06 17:02:30 - INFO - Saved best model at epoch 1
+2024-06-06 17:02:30 - INFO - Epoch 1: Train Loss=0.4622, Val Acc=0.8627, Val Loss=0.3368
+2024-06-06 17:06:35 - INFO - Epoch 2 training time: 244.9536
+2024-06-06 17:06:49 - INFO - Saved best model at epoch 2
+2024-06-06 17:06:49 - INFO - Epoch 2: Train Loss=0.3109, Val Acc=0.8873, Val Loss=0.2872
+2024-06-06 17:11:35 - INFO - Epoch 3 training time: 285.9835
+2024-06-06 17:11:50 - INFO - Saved best model at epoch 3
+2024-06-06 17:11:50 - INFO - Epoch 3: Train Loss=0.2700, Val Acc=0.8988, Val Loss=0.2611
+2024-06-06 17:49:39 - INFO - Epoch 4 training time: 2269.4948
+2024-06-06 17:49:44 - INFO - Saved best model at epoch 4
+2024-06-06 17:49:44 - INFO - Epoch 4: Train Loss=0.2414, Val Acc=0.9102, Val Loss=0.2298
+2024-06-06 17:52:39 - INFO - Epoch 5 training time: 175.5705
+2024-06-06 17:52:51 - INFO - Saved best model at epoch 5
+2024-06-06 17:52:51 - INFO - Epoch 5: Train Loss=0.2210, Val Acc=0.9225, Val Loss=0.2115
+2024-06-06 17:56:32 - INFO - Epoch 6 training time: 220.3097
+2024-06-06 17:56:35 - INFO - Saved best model at epoch 6
+2024-06-06 17:56:35 - INFO - Epoch 6: Train Loss=0.2021, Val Acc=0.9269, Val Loss=0.2017
+2024-06-06 18:05:39 - INFO - Epoch 7 training time: 543.1565
+2024-06-06 18:05:44 - INFO - Epoch 7: Train Loss=0.1857, Val Acc=0.9199, Val Loss=0.2288
+2024-06-06 18:07:30 - INFO - Epoch 8 training time: 106.2074
+2024-06-06 18:07:37 - INFO - Saved best model at epoch 8
+2024-06-06 18:07:37 - INFO - Epoch 8: Train Loss=0.1776, Val Acc=0.9366, Val Loss=0.1946
+2024-06-06 18:10:04 - INFO - Epoch 9 training time: 147.2326
+2024-06-06 18:10:15 - INFO - Saved best model at epoch 9
+2024-06-06 18:10:15 - INFO - Epoch 9: Train Loss=0.1775, Val Acc=0.9410, Val Loss=0.1741
+2024-06-06 18:20:01 - INFO - rs= 69
+2024-06-06 18:27:16 - INFO - Epoch 1 training time: 434.6069
+2024-06-06 18:27:21 - INFO - Saved best model at epoch 1
+2024-06-06 18:27:21 - INFO - Epoch 1: Train Loss=0.4732, Val Acc=0.7667, Val Loss=0.4265
+2024-06-06 18:29:04 - INFO - Epoch 2 training time: 102.8082
+2024-06-06 18:29:08 - INFO - Saved best model at epoch 2
+2024-06-06 18:29:08 - INFO - Epoch 2: Train Loss=0.3553, Val Acc=0.8996, Val Loss=0.2778
+2024-06-06 18:31:07 - INFO - Epoch 3 training time: 119.2002
+2024-06-06 18:31:12 - INFO - Epoch 3: Train Loss=0.2706, Val Acc=0.8900, Val Loss=0.2812
+2024-06-06 18:33:02 - INFO - Epoch 4 training time: 110.1360
+2024-06-06 18:33:07 - INFO - Saved best model at epoch 4
+2024-06-06 18:33:07 - INFO - Epoch 4: Train Loss=0.2380, Val Acc=0.9261, Val Loss=0.2158
+2024-06-06 18:35:13 - INFO - Epoch 5 training time: 126.0907
+2024-06-06 18:35:17 - INFO - Epoch 5: Train Loss=0.2212, Val Acc=0.9234, Val Loss=0.2203
+2024-06-06 18:37:04 - INFO - Epoch 6 training time: 106.5505
+2024-06-06 18:37:08 - INFO - Saved best model at epoch 6
+2024-06-06 18:37:08 - INFO - Epoch 6: Train Loss=0.2106, Val Acc=0.9375, Val Loss=0.1877
+2024-06-06 18:39:36 - INFO - Epoch 7 training time: 148.1594
+2024-06-06 18:39:41 - INFO - Saved best model at epoch 7
+2024-06-06 18:39:41 - INFO - Epoch 7: Train Loss=0.1897, Val Acc=0.9437, Val Loss=0.1861
+2024-06-06 18:41:43 - INFO - Epoch 8 training time: 122.5291
+2024-06-06 18:41:47 - INFO - Epoch 8: Train Loss=0.1848, Val Acc=0.9357, Val Loss=0.1919
+2024-06-06 18:43:36 - INFO - Epoch 9 training time: 108.5718
+2024-06-06 18:43:40 - INFO - Epoch 9: Train Loss=0.1822, Val Acc=0.9366, Val Loss=0.1902
+2024-06-06 18:45:12 - INFO - Epoch 10 training time: 92.1834
+2024-06-06 18:45:17 - INFO - Saved best model at epoch 10
+2024-06-06 18:45:17 - INFO - Epoch 10: Train Loss=0.1765, Val Acc=0.9472, Val Loss=0.1718
+2024-06-06 18:46:49 - INFO - Epoch 11 training time: 92.4740
+2024-06-06 18:46:54 - INFO - Epoch 11: Train Loss=0.1678, Val Acc=0.9357, Val Loss=0.1882
+2024-06-06 18:48:46 - INFO - Epoch 12 training time: 112.5875
+2024-06-06 18:48:51 - INFO - Saved best model at epoch 12
+2024-06-06 18:48:51 - INFO - Epoch 12: Train Loss=0.1570, Val Acc=0.9445, Val Loss=0.1636
+2024-06-06 18:50:38 - INFO - Epoch 13 training time: 106.8859
+2024-06-06 18:50:42 - INFO - Saved best model at epoch 13
+2024-06-06 18:50:42 - INFO - Epoch 13: Train Loss=0.1598, Val Acc=0.9525, Val Loss=0.1540
+2024-06-06 18:52:34 - INFO - Epoch 14 training time: 112.0709
+2024-06-06 18:52:38 - INFO - Epoch 14: Train Loss=0.1595, Val Acc=0.9366, Val Loss=0.1845
+2024-06-06 18:54:21 - INFO - Epoch 15 training time: 102.6219
+2024-06-06 18:54:25 - INFO - Saved best model at epoch 15
+2024-06-06 18:54:25 - INFO - Epoch 15: Train Loss=0.1457, Val Acc=0.9516, Val Loss=0.1514
+2024-06-06 18:56:13 - INFO - Epoch 16 training time: 108.1187
+2024-06-06 18:56:17 - INFO - Epoch 16: Train Loss=0.1410, Val Acc=0.9454, Val Loss=0.1623
+2024-06-06 18:57:55 - INFO - Epoch 17 training time: 97.5143
+2024-06-06 18:57:59 - INFO - Epoch 17: Train Loss=0.1363, Val Acc=0.9498, Val Loss=0.1655
+2024-06-06 18:59:42 - INFO - Epoch 18 training time: 102.8675
+2024-06-06 18:59:46 - INFO - Epoch 18: Train Loss=0.1511, Val Acc=0.9454, Val Loss=0.1601
+2024-06-06 19:01:22 - INFO - Epoch 19 training time: 95.8896
+2024-06-06 19:01:26 - INFO - Epoch 19: Train Loss=0.1406, Val Acc=0.9357, Val Loss=0.1725
+2024-06-06 19:03:15 - INFO - Epoch 20 training time: 108.8887
+2024-06-06 19:03:20 - INFO - Early stopping triggered, epoch 20
+2024-06-06 19:03:27 - INFO - Test F1-Score: 0.9542
+2024-06-06 19:03:27 - INFO - Test Precision : 0.9544
+2024-06-06 19:03:27 - INFO - Test Accuracy: 0.9542
+2024-06-06 19:03:27 - INFO - Test Recall: 0.9542
+2024-06-06 19:03:27 - INFO - Train Time: 2510.7550
